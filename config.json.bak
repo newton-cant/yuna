@@ -1,0 +1,14 @@
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "supra", 
+	"zeksKey": "apivinz",
+	"autoRead": true,
+	"self": false, 
+	"maxLimit": 300,
+	"ownerList": ["559391919748@s.whatsapp.net", "559391919748@s.whatsapp.net"],
+	"apiUrl": "https://api.zeks.me",
+		"apiUri": "https://supra-api.herokuapp.com",
+    "imgUrl": "https://i.pinimg.com/236x/76/2b/df/762bdfae4a5903798984d4e9ee4e94a0.jpg",
+	"pack": "newton",
+	"author": "@supra"
+}
